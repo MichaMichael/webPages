@@ -1,3 +1,3 @@
 # webPages
-from PSD to html/css
+PSD to html/css
 Learning project
